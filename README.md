@@ -48,7 +48,7 @@ tube-joint-visualizer/
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/tube-joint-visualizer.git
+   git clone [https://github.com/yourusername/tube-joint-visualizer.git](https://github.com/elissamunanira/Tube-Joint-Visualizer-Challenge.git)
    cd tube-joint-visualizer
    \`\`\`
 
