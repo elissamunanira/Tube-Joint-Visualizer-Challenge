@@ -48,7 +48,7 @@ tube-joint-visualizer/
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/yourusername/tube-joint-visualizer.git
+   git clone https://github.com/elissamunanira/Tube-Joint-Visualizer-Challenge.git
    cd tube-joint-visualizer
    \`\`\`
 
@@ -96,22 +96,6 @@ Or for final distribution builds:
 \`\`\`bash
 npm run dist
 \`\`\`
-
-### Executable Locations
-
-After building, find your platform-specific executable:
-
-- **Windows**: 
-  - `dist/Tube Joint Visualizer Setup 1.0.0.exe` (Installer)
-  - `dist/Tube Joint Visualizer 1.0.0.exe` (Portable)
-
-- **macOS**: 
-  - `dist/Tube Joint Visualizer-1.0.0.dmg` (DMG Installer)
-  - `dist/Tube Joint Visualizer-1.0.0.zip` (ZIP Archive)
-
-- **Linux**: 
-  - `dist/tube-joint-visualizer-1.0.0.AppImage` (AppImage)
-  - `dist/tube-joint-visualizer-1.0.0.deb` (Debian Package)
 
 ## User Controls
 
@@ -204,21 +188,6 @@ After building, find your platform-specific executable:
 
 This project follows professional development practices:
 
-### Commit Structure
-- **feat**: New features (e.g., `feat: add tube joint detection`)
-- **fix**: Bug fixes (e.g., `fix: resolve grid snapping issues`)
-- **docs**: Documentation (e.g., `docs: update README`)
-- **style**: UI/styling (e.g., `style: enhance control panel design`)
-- **refactor**: Code restructuring (e.g., `refactor: optimize joint detection`)
-
-### Example Commits
-\`\`\`
-feat: implement 3D tube visualization with Three.js
-feat: add grid snapping and angle validation
-fix: correct joint detection bounding box calculation
-docs: add comprehensive README with usage guide
-\`\`\`
-
 ## Architecture Overview
 
 ### Scene Management (scene.js)
@@ -300,10 +269,6 @@ docs: add comprehensive README with usage guide
 - **GPU**: Any GPU with WebGL support
 - **Storage**: 200 MB free disk space
 
-## License
-
-MIT License - Feel free to use this project for educational, personal, and commercial purposes.
-
 ## Support & Contributing
 
 ### Reporting Issues
@@ -322,8 +287,8 @@ Create a GitHub issue with:
 
 ## Authors
 
-- **Lead Developer**: Your Name
-- **Contributors**: Community feedback welcome
+- **Lead Developer**: MUNANIRA ELISSA
+- **Contributors**: None
 
 ## Acknowledgments
 
@@ -335,6 +300,6 @@ Create a GitHub issue with:
 
 **Version**: 1.0.0  
 **Last Updated**: November 2025  
-**Status**: Production Ready
+**Status**: In progress
 
 For detailed version history, see [CHANGELOG.md](CHANGELOG.md)
